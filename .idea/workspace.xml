@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c73f0d1f-710a-45fe-92ed-6bca9d99be75" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="703">
+              <caret line="45" selection-start-line="45" selection-end-line="45" />
+              <folding>
+                <element signature="e#11#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/readpic.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/1558411282722.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/1558411283493.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/1558411286145.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/1558411809991.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/1558411262400.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/a_star.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="473">
+              <caret line="125" selection-start-line="125" selection-end-line="125" />
+              <folding>
+                <element signature="e#13#23#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/a-star-algorithm-master/main.py" />
+        <option value="$PROJECT_DIR$/a-star-algorithm-master/a_star.py" />
+        <option value="$PROJECT_DIR$/a-star-algorithm-master/readpic.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="126" />
+    <option name="y" value="228" />
+    <option name="width" value="1890" />
+    <option name="height" value="1107" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="a-star-algorithm-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="a-star-algorithm-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="a-star-algorithm-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="a-star-algorithm-master" type="462c0819:PsiDirectoryNode" />
+              <item name="a-star-algorithm-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="a-star-algorithm-master" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="a-star-algorithm-master" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="a-star-algorithm-master" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.readpic">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="a-star-algorithm-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/a-star-algorithm-master" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/a-star-algorithm-master/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="readpic" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="a-star-algorithm-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/a-star-algorithm-master" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/a-star-algorithm-master/readpic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.readpic" />
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c73f0d1f-710a-45fe-92ed-6bca9d99be75" name="Default Changelist" comment="" />
+      <created>1558402884599</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558402884599</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2613185" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32978722" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2613185" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32978722" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/1558402984477.png" />
+    <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/1558402983609.png" />
+    <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/1558403387639.png" />
+    <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/1558403388597.png" />
+    <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/1558403468292.png" />
+    <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/1558403495252.png" />
+    <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/point.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/random_map.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-435">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+          <folding>
+            <element signature="e#17#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/1558406676219.png" />
+    <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/1558406672697.png" />
+    <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/1558406669164.png" />
+    <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/1558406665699.png" />
+    <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/1558406662199.png" />
+    <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/1558406658650.png" />
+    <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/1558406654964.png" />
+    <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/1558405047640.png" />
+    <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/1558402982549.png" />
+    <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/1558402985427.png" />
+    <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/1558402989282.png" />
+    <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/1558403008831.png" />
+    <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/1558403020194.png" />
+    <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/1558403036154.png" />
+    <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/1558403053277.png" />
+    <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/1558403074121.png" />
+    <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/1558403090332.png" />
+    <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/1558403110611.png" />
+    <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/1558403126614.png" />
+    <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/1558403143089.png" />
+    <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/1558403203997.png" />
+    <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/1558403240748.png" />
+    <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/1558403278102.png" />
+    <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/1558403435429.png" />
+    <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/1558404293802.png" />
+    <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/1558404293730.png" />
+    <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/1558404293640.png" />
+    <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/1558404292887.png" />
+    <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/1558404292851.png" />
+    <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/1558404291901.png" />
+    <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/1558404290988.png" />
+    <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/1558404290460.png" />
+    <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/1558404217999.png" />
+    <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/1558404216479.png" />
+    <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/1558407894780.png" />
+    <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <element signature="e#11#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/1558411262400.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/1558411809991.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/a_star.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="125" selection-start-line="125" selection-end-line="125" />
+          <folding>
+            <element signature="e#13#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/1558411282722.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/1558411283493.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/1558411286145.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a-star-algorithm-master/readpic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
